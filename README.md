@@ -6,6 +6,7 @@
 ###二、微信公众号：
 **关注微信公众号，获取密码，了解更多。**
 **微信公众号：jike_android**
+
 ![公众号](https://github.com/wch0620/StatusBar/raw/master/WeiXin/qrcode.jpg)
 
 ###三、效果图：
