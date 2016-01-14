@@ -11,7 +11,7 @@
 
 ###三、效果图：
 
-![效果图](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot5.png)
+![效果图](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot.png)
 
 ###四、关键代码：
 
