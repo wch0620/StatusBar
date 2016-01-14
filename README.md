@@ -10,11 +10,8 @@
 ![公众号](https://github.com/wch0620/StatusBar/raw/master/WeiXin/qrcode.jpg)
 
 ###三、效果图：
-![效果图1](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot1.png)
-![效果图2](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot2.png)
-![效果图3](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot3.png)
-![效果图4](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot4.png)
-![效果图5](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot5.png)
+
+![效果图](https://github.com/wch0620/StatusBar/raw/master/ScreenShot/Screenshot5.png)
 
 ###四、关键代码：
 
